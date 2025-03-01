@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey 👋, I'm Adrian, a hobby software and game developer from Germany.<br><br>🧑‍💻 I'm currently working on: Discord Bot and Backend for Tropical Network.<br><br>🖥️ I have developed several Minecraft-related systems, mostly in Java for Nukkit and the Bedrock edition.<br><br>🤖 I also have experience working with Discord bots using JDA and am currently gaining experience with Spring.<br><br>🚀 I'm always open to working on new projects and learning new things.<br><br>💬 You can reach me via my Discord username: enjoymymadness.
+Hey 👋, I'm Adrian, a hobby software and game developer from Germany.<br><br>🧑‍💻 I'm currently working on: a Secret Project.<br><br>🖥️ I have developed several Minecraft-related systems, mostly in Java for Nukkit and the Bedrock edition.<br><br>🤖 I also have experience working with Discord bots using JDA and am currently gaining experience with Spring.<br><br>🚀 I'm always open to working on new projects and learning new things.<br><br>💬 You can reach me via my Discord username: enjoymymadness.
 
 
 ## 🌐 Socials:
